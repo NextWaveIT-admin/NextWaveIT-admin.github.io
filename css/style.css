@@ -476,7 +476,7 @@
 }
 
 .offer-section .nav a.accordion-link.active h5 {
-    color: var(--bs-white);
+    color: var(#2b67a3);
 }
 /*** Offer End ***/
 
