@@ -77,13 +77,13 @@
 }
 
 .btn.btn-light {
-    color: var(#74ACDB);
+    color: var(#2b67a3);
     border: none;
 }
 
 .btn.btn-light:hover {
     color: var(--bs-white);
-    background: var(#74ACDB);
+    background: var(#2b67a3);
 }
 
 
@@ -144,7 +144,7 @@
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-item .nav-link:hover,
 .navbar-light .navbar-nav .nav-item .nav-link.active  {
-    color: var(#74ACDB);
+    color: var(#2b67a3);
 }
 
 .navbar-light .navbar-brand img {
@@ -245,7 +245,7 @@
         height: 2px;
         bottom: -1px;
         left: 50%;
-        background: var(#74ACDB);
+        background: var(#2b67a3);
         transition: .5s;
     }
 
@@ -262,7 +262,7 @@
         height: 0;
         bottom: -1px;
         left: 50%;
-        background: var(#74ACDB);
+        background: var(#2b67a3);
         transition: .5s;
     }
 
@@ -291,7 +291,7 @@
     width: 60px;
     height: 60px;
     border-radius: 60px;
-    background: var(#74ACDB);
+    background: var(#2b67a3);
     color: var(--bs-white);
     font-size: 26px;
     display: flex;
